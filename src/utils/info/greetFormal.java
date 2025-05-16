@@ -1,4 +1,4 @@
-package utils;
+package utils.info;
 
 public class greetFormal {
    public static void sayHello() {
